@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASLP", "ASLP.csproj", "{78EE85E5-8ABD-42D1-B7BC-A19A98FAFEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78EE85E5-8ABD-42D1-B7BC-A19A98FAFEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EE85E5-8ABD-42D1-B7BC-A19A98FAFEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EE85E5-8ABD-42D1-B7BC-A19A98FAFEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EE85E5-8ABD-42D1-B7BC-A19A98FAFEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8839BA-13D3-46D0-9CED-F57AED73B160}
+	EndGlobalSection
+EndGlobal
